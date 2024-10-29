@@ -1,5 +1,4 @@
 # Registration-form
-# Event Form
 
 ## Description
 A student application form which collects basic details like name, age, email ID, phone number, parents details, etc.
